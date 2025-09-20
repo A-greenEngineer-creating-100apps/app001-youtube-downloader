@@ -27,6 +27,7 @@ ffmpeg をインストールして、PATHを通す
 ---
 
 ▶️ 使い方
+
 <img width="650" height="454" alt="image" src="https://github.com/user-attachments/assets/5603c417-5e88-40c2-9de9-ce670a0847f9" />
 
 URL欄に YouTube の動画URLを入力
@@ -37,6 +38,7 @@ URL欄に YouTube の動画URLを入力
 ---
 
 📚 学び（備忘録）
+
 Tkinter での UI 構築（フレーム構成、スイッチUIの自作）
 yt-dlp を Python から利用して動画/音声を処理
 スレッドを使って UI を固まらせない工夫
